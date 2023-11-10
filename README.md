@@ -69,7 +69,7 @@
 
 <hr>
 
-## Posters
+## Posters - Monday 4th December
 
 ### Synchronic variation in Igede syllable structure
 > Kolawole Adeniyi (Obafemi Awolowo University) ▸ <a href="">»abstract«</a>
@@ -103,3 +103,39 @@
 
 ### Parting ways with tradition: Romance, dating, and vowel breaking
 > Fabian Zuk (LLACAN, CNRS) ▸ <a href="">»abstract«</a>
+
+
+## Posters - Tuesday 5th December
+
+### Phonological norm in the grammars written by Dalmatian authors of the second half of the 19th century
+> Tanja Brešan Ančić (University of Split) ▸ <a href="">»abstract«</a>
+
+### Labial-velars: Origins and reflexes
+> Michael Cahill (SIL International) ▸ <a href="">»abstract«</a>
+
+### Why do languages bifurcate? The Minimum Capacity Hypothesis
+> Joe Collins (Norwegian University of Science and Technology) ▸ <a href="">»abstract«</a>
+
+### Speech physiology or more? Vowel duration and tongue height in Northwestern Italian
+> Stefano Coretta (University of Edinburgh) ▸ <a href="">»abstract«</a>
+
+### Nasal vowel unpacking or segmentalization in Albanian
+> Lindon Dedvukaj (Ohio State University) ▸ <a href="">»abstract«</a>
+
+### An acoustic analysis of the Norwegian merger of /ʃ/ and /ç/
+> Maria Evjen & Sverre Stausland Johnsen (University of Oslo) ▸ <a href="">»abstract«</a>
+
+### Length in strange places: Qualitative enhancement of sonorant quantity in Celtic and beyond
+> Pavel Iosad (University of Edinburgh) ▸ <a href="">»abstract«</a>
+
+### The phonemic aspect of Glossematics in a present-day light
+> Henrik Jørgensen, Rasmus Puggaard-Rode & Camilla Søballe Horslund (Aarhus University) ▸ <a href="">»abstract«</a>
+
+### An evaluation of contact-induced change to word prosody systems on a global scale
+> Ricardo Napoleão de Souza & Anu Hyvönen (University of Edinburgh & University of Helsinki) ▸ <a href="">»abstract«</a>
+
+### Stress-targeted vowel harmony: a diachronic and theoretical account of Occitan ‘metaphonic’ diphthongization
+> Michela Russo (Université Lyon III — Jean Moulin / SFL CNRS–Université Paris 8) ▸ <a href="">»abstract«</a>
+
+### Historical phonology of Modern South Arabian – a new proposal
+> Roey Schneider (Friedrich-Schiller-Universität Jena) ▸ <a href="">»abstract«</a>

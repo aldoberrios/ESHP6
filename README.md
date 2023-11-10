@@ -32,6 +32,11 @@
 ### Plenary Talk - Part 1
 > 5.00-6ish ▸ Shelece Easterday (University of Hawaiʻi at Mānoa) ▸ <a href="">»abstract«</a>
 
+<hr> 
+
+
+
+
 ## Tuesday 5th December
 
 ### Plenary Talk - Part 2
@@ -60,3 +65,44 @@
 
 ### Cinderella Syncope: the ever-changing metrical motivations for Latin vowel deletion
 > 4.30-5.00 ▸ Ranjan Sen (University of Sheffield) ▸ <a href="">»abstract«</a>
+
+
+<hr>
+
+## Posters - Monday 4th December
+
+### Synchronic variation in Igede syllable structure
+> Kolawole Adeniyi (Obafemi Awolowo University) ▸ <a href="">»abstract«</a>
+
+### Multiple uncommon word-prosodic changes in the Austronesian languages of Raja Ampat: when – and why?
+> Laura Arnold (University of Edinburgh) ▸ <a href="">»abstract«</a>
+
+### Contact-induced phonological change in the Sumatran languages
+> Blaine Billings (University of Hawai'i at Mānoa) ▸ <a href="">»abstract«</a>
+
+### A life cycle of BS
+> Brandon Kieffer (University of Edinburgh) ▸ <a href="">»abstract«</a>
+
+### Between dialectal backing and the tendency towards intrasyllabic harmony: the case of the Kryvorivnja Dialect
+> Oksana Lebedivna (University of Edinburgh) ▸ <a href="">»abstract«</a>
+
+### Junk in a chain shift. Nominative clitics in the Romance languages
+> Geir Lima & Miguel Vázquez-Larruscaín (University of South-Eastern Norway) ▸ <a href="">»abstract«</a>
+
+### Morpheme boundary + velar nasal: a study of prefixation in The Grand Repository of the English Language (1775)
+> Mar Nieves-Fernández (Universidade de Vigo) ▸ <a href="">»abstract«</a>
+
+### Diachronic spirantization and deaspiration in Sylheti
+> Ankita Prasad (Indian Institute of Technology Delhi) ▸ <a href="">»abstract«</a>
+
+### Positional prominence constraints and nasality: An Edoid example
+> Ronald P. Schaefer & Francis O. Egbokhare (Southern Illinois University Edwardsville) ▸ <a href="">»abstract«</a>
+
+### The pertinacity and opacity of proto-Mayan stress parameters
+> Elijah C. Wilder (University of Texas at Austin) ▸ <a href="">»abstract«</a>
+
+### Parting ways with tradition: Romance, dating, and vowel breaking
+> Fabian Zuk (LLACAN, CNRS) ▸ <a href="">»abstract«</a>
+
+
+## Posters - Tuesday 5th December

@@ -8,12 +8,11 @@
 ### Phonological Processes in Nizwa Arabic: Change and Persistence
 > 10.00-10.30 ▸ Suaad Ambu Saidi (Sultan Qaboos University) ▸ <a href="">»abstract«</a>
 
-
 ### Word-final obstruent voicing as an outcome of the lenis/fortis contrast transformation in Lower Luga Ingrian
 > 10.30-11.00 ▸ Natalia Kuznetsova (Università Cattolica del Sacro Cuore) ▸ <a href="">»abstract«</a>
 
 ### The prosody of the Old English prefix ge-
-11.00-11.30 ▸ Tina Bögel, Chiara Riegger & George Walkden (University of Konstanz) ▸ <a href="">»abstract«</a>
+> 11.00-11.30 ▸ Tina Bögel, Chiara Riegger & George Walkden (University of Konstanz) ▸ <a href="">»abstract«</a>
 
 ### Mechanizing Chinese historical phonology
 > 2.00-2.30 ▸ Julien Baley & Nathan Hill (Trinity College Dublin) ▸ <a href="">»abstract«</a>
@@ -23,7 +22,6 @@
 
 ###  Sonority thresholds and phonological change: Presonorant Lengthening in BCMS revisited
 > 3.00-3.30 ▸ Aljosa Milenkovic (Harvard University) ▸ <a href="">»abstract«</a>
-
 
 ### Restocking the Shelves: Tracking the Reintroduction of Aspirated Plosives into Vamale (South Oceanic)
 > 3.30-4.00 ▸ Jean Rohleder (University of Bern) ▸ <a href="">»abstract«</a>

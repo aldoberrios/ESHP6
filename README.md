@@ -69,7 +69,7 @@
 
 <hr>
 
-## Posters - Monday 4th December
+## Posters
 
 ### Synchronic variation in Igede syllable structure
 > Kolawole Adeniyi (Obafemi Awolowo University) ▸ <a href="">»abstract«</a>

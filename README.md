@@ -103,6 +103,3 @@
 
 ### Parting ways with tradition: Romance, dating, and vowel breaking
 > Fabian Zuk (LLACAN, CNRS) ▸ <a href="">»abstract«</a>
-
-
-## Posters - Tuesday 5th December

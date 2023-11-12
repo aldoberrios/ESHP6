@@ -1,6 +1,6 @@
-# The Sixth Edinburgh Symposium on Historical Phonology
+<h1>The Sixth Edinburgh Symposium on Historical Phonology</h1>
 
-## <span style="color:red">Monday 4th December</span>
+<h2 style="color:red">Monday 4th December</h2>
 
 <div id="monday" style="margin-left: 50px">
   
@@ -38,7 +38,7 @@
 
 <hr> 
 
-## <span style="color:red">Tuesday 5th December</span>
+<h2 span style="color:red">Tuesday 5th December</h2>
 
 <div id="tuesday" style="margin-left: 50px">
 

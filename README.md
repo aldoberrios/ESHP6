@@ -34,8 +34,6 @@
 <h3>Plenary Talk - Part 1</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 5.00-6ish ▸ Shelece Easterday (University of Hawaiʻi at Mānoa) ▸ <a href="">»abstract«</a></p>
 
-</div>
-
 <hr> 
 
 <h2 span style="color:red">Tuesday 5th December</h2>

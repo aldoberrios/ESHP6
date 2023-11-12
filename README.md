@@ -4,29 +4,30 @@
 
 <div id="este" style="margin-left: 50px">
   
-<h3> Tone sandhi in diachronic perspective </h3>
+<h3>Tone sandhi in diachronic perspective </h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 9.30-10.00 ▸ James Kirby (Ludwig-Maximilians-Universität München) ▸ <a href="">»abstract«</a></p>
 
-### Phonological Processes in Nizwa Arabic: Change and Persistence
-&nbsp;&nbsp;&nbsp;&nbsp; 10.00-10.30 ▸ Suaad Ambu Saidi (Sultan Qaboos University) ▸ <a href="">»abstract«</a>
+<h3>Phonological Processes in Nizwa Arabic: Change and Persistence</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 10.00-10.30 ▸ Suaad Ambu Saidi (Sultan Qaboos University) ▸ <a href="">»abstract«</a></p>
 
-### Word-final obstruent voicing as an outcome of the lenis/fortis contrast transformation in Lower Luga Ingrian
-&nbsp;&nbsp;&nbsp;&nbsp; 10.30-11.00 ▸ Natalia Kuznetsova (Università Cattolica del Sacro Cuore) ▸ <a href="">»abstract«</a>
+<h3>Word-final obstruent voicing as an outcome of the lenis/fortis contrast transformation in Lower Luga Ingrian</h3>
 
-### The prosody of the Old English prefix ge-
-&nbsp;&nbsp;&nbsp;&nbsp; 11.00-11.30 ▸ Tina Bögel, Chiara Riegger & George Walkden (University of Konstanz) ▸ <a href="">»abstract«</a>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 10.30-11.00 ▸ Natalia Kuznetsova (Università Cattolica del Sacro Cuore) ▸ <a href="">»abstract«</a></p>
 
-### Mechanizing Chinese historical phonology
-&nbsp;&nbsp;&nbsp;&nbsp; 2.00-2.30 ▸ Julien Baley & Nathan Hill (Trinity College Dublin) ▸ <a href="">»abstract«</a>
+<h3>The prosody of the Old English prefix ge-</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 11.00-11.30 ▸ Tina Bögel, Chiara Riegger & George Walkden (University of Konstanz) ▸ <a href="">»abstract«</a>
+
+<h3>Mechanizing Chinese historical phonology</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 2.00-2.30 ▸ Julien Baley & Nathan Hill (Trinity College Dublin) ▸ <a href="">»abstract«</a></p>
 
 ###  The sociophonetic investigation of the effects of opposing forces during the development of NZ English
-&nbsp;&nbsp;&nbsp;&nbsp; 2.30-3.00 ▸ Erika Sajtós & Katalin Balogné Bérces (Pázmány Péter Catholic University) ▸ <a href="">»abstract«</a>
+&nbsp;&nbsp;&nbsp;&nbsp; 2.30-3.00 ▸ Erika Sajtós & Katalin Balogné Bérces (Pázmány Péter Catholic University) ▸ <a href="">»abstract«</a></p>
 
 ###  Sonority thresholds and phonological change: Presonorant Lengthening in BCMS revisited
-&nbsp;&nbsp;&nbsp;&nbsp; 3.00-3.30 ▸ Aljosa Milenkovic (Harvard University) ▸ <a href="">»abstract«</a>
+&nbsp;&nbsp;&nbsp;&nbsp; 3.00-3.30 ▸ Aljosa Milenkovic (Harvard University) ▸ <a href="">»abstract«</a></p>
 
 ### Restocking the Shelves: Tracking the Reintroduction of Aspirated Plosives into Vamale (South Oceanic)
-&nbsp;&nbsp;&nbsp;&nbsp; 3.30-4.00 ▸ Jean Rohleder (University of Bern) ▸ <a href="">»abstract«</a>
+&nbsp;&nbsp;&nbsp;&nbsp; 3.30-4.00 ▸ Jean Rohleder (University of Bern) ▸ <a href="">»abstract«</a></p>
 
 ### Cyclicity as a Proto-Indo-European phenomenon
 &nbsp;&nbsp;&nbsp;&nbsp; 4.30-5.00 ▸ Anthony D. Yates (University of California, Los Angeles) ▸ <a href="">»abstract«</a>

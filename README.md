@@ -2,7 +2,8 @@
 
 ## <span style="color:blue">Monday 4th December</span>
 
-<pre>
+<span style="margin-left: 100px; margin-right: 100px;">
+  
 ### Tone sandhi in diachronic perspective
 &nbsp;&nbsp;&nbsp;&nbsp; 9.30-10.00 ▸ James Kirby (Ludwig-Maximilians-Universität München) ▸ <a href="">»abstract«</a>
 
@@ -32,7 +33,7 @@
 
 ### Plenary Talk - Part 1
 &nbsp;&nbsp;&nbsp;&nbsp; 5.00-6ish ▸ Shelece Easterday (University of Hawaiʻi at Mānoa) ▸ <a href="">»abstract«</a>
-</pre>
+</span>
 <hr> 
 
 

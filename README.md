@@ -3,7 +3,6 @@
 <h2 style="color:red">Monday 4th December</h2>
 
 <div id="monday" style="margin-left: 50px">
-  
 <h3>Tone sandhi in diachronic perspective </h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 9.30-10.00 ▸ James Kirby (Ludwig-Maximilians-Universität München) ▸ <a href="">»abstract«</a></p>
 
@@ -33,7 +32,7 @@
 
 <h3>Plenary Talk - Part 1</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 5.00-6ish ▸ Shelece Easterday (University of Hawaiʻi at Mānoa) ▸ <a href="">»abstract«</a></p>
-
+</div>
 <hr> 
 
 <h2 span style="color:red">Tuesday 5th December</h2>

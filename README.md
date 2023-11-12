@@ -2,10 +2,10 @@
 
 ## <span style="color:red">Monday 4th December</span>
 
-<div id="este">
+<div id="este" style="margin-left: 50px">
   
-### Tone sandhi in diachronic perspective
-&nbsp;&nbsp;&nbsp;&nbsp; 9.30-10.00 ▸ James Kirby (Ludwig-Maximilians-Universität München) ▸ <a href="">»abstract«</a>
+<h3> Tone sandhi in diachronic perspective </h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 9.30-10.00 ▸ James Kirby (Ludwig-Maximilians-Universität München) ▸ <a href="">»abstract«</a></p>
 
 ### Phonological Processes in Nizwa Arabic: Change and Persistence
 &nbsp;&nbsp;&nbsp;&nbsp; 10.00-10.30 ▸ Suaad Ambu Saidi (Sultan Qaboos University) ▸ <a href="">»abstract«</a>

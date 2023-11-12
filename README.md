@@ -1,9 +1,7 @@
 # The Sixth Edinburgh Symposium on Historical Phonology
 
-## <span style="color:blue">Monday 4th December</span>
+## <span style="color:red">Monday 4th December</span>
 
-<span style="margin-left: 100px; margin-right: 100px;">
-  
 ### Tone sandhi in diachronic perspective
 &nbsp;&nbsp;&nbsp;&nbsp; 9.30-10.00 ▸ James Kirby (Ludwig-Maximilians-Universität München) ▸ <a href="">»abstract«</a>
 

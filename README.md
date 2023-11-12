@@ -11,7 +11,6 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 10.00-10.30 ▸ Suaad Ambu Saidi (Sultan Qaboos University) ▸ <a href="">»abstract«</a></p>
 
 <h3>Word-final obstruent voicing as an outcome of the lenis/fortis contrast transformation in Lower Luga Ingrian</h3>
-
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 10.30-11.00 ▸ Natalia Kuznetsova (Università Cattolica del Sacro Cuore) ▸ <a href="">»abstract«</a></p>
 
 <h3>The prosody of the Old English prefix ge-</h3>
@@ -20,20 +19,20 @@
 <h3>Mechanizing Chinese historical phonology</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; 2.00-2.30 ▸ Julien Baley & Nathan Hill (Trinity College Dublin) ▸ <a href="">»abstract«</a></p>
 
-###  The sociophonetic investigation of the effects of opposing forces during the development of NZ English
-&nbsp;&nbsp;&nbsp;&nbsp; 2.30-3.00 ▸ Erika Sajtós & Katalin Balogné Bérces (Pázmány Péter Catholic University) ▸ <a href="">»abstract«</a></p>
+<h3>The sociophonetic investigation of the effects of opposing forces during the development of NZ English</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 2.30-3.00 ▸ Erika Sajtós & Katalin Balogné Bérces (Pázmány Péter Catholic University) ▸ <a href="">»abstract«</a></p>
 
-###  Sonority thresholds and phonological change: Presonorant Lengthening in BCMS revisited
-&nbsp;&nbsp;&nbsp;&nbsp; 3.00-3.30 ▸ Aljosa Milenkovic (Harvard University) ▸ <a href="">»abstract«</a></p>
+<h3>Sonority thresholds and phonological change: Presonorant Lengthening in BCMS revisited</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 3.00-3.30 ▸ Aljosa Milenkovic (Harvard University) ▸ <a href="">»abstract«</a></p>
 
-### Restocking the Shelves: Tracking the Reintroduction of Aspirated Plosives into Vamale (South Oceanic)
-&nbsp;&nbsp;&nbsp;&nbsp; 3.30-4.00 ▸ Jean Rohleder (University of Bern) ▸ <a href="">»abstract«</a></p>
+<h3>Restocking the Shelves: Tracking the Reintroduction of Aspirated Plosives into Vamale (South Oceanic)</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 3.30-4.00 ▸ Jean Rohleder (University of Bern) ▸ <a href="">»abstract«</a></p>
 
-### Cyclicity as a Proto-Indo-European phenomenon
-&nbsp;&nbsp;&nbsp;&nbsp; 4.30-5.00 ▸ Anthony D. Yates (University of California, Los Angeles) ▸ <a href="">»abstract«</a>
+<h3>Cyclicity as a Proto-Indo-European phenomenon</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 4.30-5.00 ▸ Anthony D. Yates (University of California, Los Angeles) ▸ <a href="">»abstract«</a></p>
 
-### Plenary Talk - Part 1
-&nbsp;&nbsp;&nbsp;&nbsp; 5.00-6ish ▸ Shelece Easterday (University of Hawaiʻi at Mānoa) ▸ <a href="">»abstract«</a>
+<h3>Plenary Talk - Part 1</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 5.00-6ish ▸ Shelece Easterday (University of Hawaiʻi at Mānoa) ▸ <a href="">»abstract«</a></p>
 </div>
 <hr> 
 

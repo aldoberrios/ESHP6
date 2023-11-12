@@ -1,6 +1,6 @@
 # The Sixth Edinburgh Symposium on Historical Phonology
 
-## Monday 4th December
+## <span style="color:blue">Monday 4th December</span>
 
 ### Tone sandhi in diachronic perspective
 > 9.30-10.00 ▸ James Kirby (Ludwig-Maximilians-Universität München) ▸ <a href="">»abstract«</a>
@@ -36,8 +36,7 @@
 
 
 
-
-## Tuesday 5th December
+## <span style="color:red">Tuesday 5th December</span>
 
 ### Plenary Talk - Part 2
 > 9.30-10.30 ▸ Shelece Easterday (University of Hawaiʻi at Mānoa) ▸ <a href="">»abstract«</a>

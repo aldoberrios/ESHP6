@@ -38,7 +38,6 @@
 
 <hr> 
 
-
 ## <span style="color:red">Tuesday 5th December</span>
 
 <div id="tuesday" style="margin-left: 50px">
@@ -78,7 +77,6 @@
 
 <div id="poster-monday" style="margin-left: 50px">
 
-
 <h3>Synchronic variation in Igede syllable structure</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; Kolawole Adeniyi (Obafemi Awolowo University) ▸ <a href="">»abstract«</a></p>
 
@@ -112,7 +110,6 @@
 
 <h3>Parting ways with tradition: Romance, dating, and vowel breaking</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; Fabian Zuk (LLACAN, CNRS) ▸ <a href="">»abstract«</a></p>
-
 </div>
 
 

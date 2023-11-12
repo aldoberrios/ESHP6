@@ -73,7 +73,7 @@
 
 <hr>
 
-## <span style="color:red">Posters - Monday 4th December</span>
+<h2 style="color:red">Posters - Monday 4th December</h2>
 
 <div id="poster-monday" style="margin-left: 50px">
 
@@ -113,7 +113,7 @@
 </div>
 
 
-## <span style="color:red">Posters - Tuesday 5th December</span>
+<h2 span style="color:red">Posters - Tuesday 5th December</h2>
 
 <div id="poster-tuesday" style="margin-left: 50px">
 

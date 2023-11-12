@@ -150,4 +150,4 @@
 <h3>Historical phonology of Modern South Arabian – a new proposal</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; Roey Schneider (Friedrich-Schiller-Universität Jena) ▸ <a href="">»abstract«</a></p>
 
-<div>
+</div>
